@@ -14,6 +14,24 @@
 
     - Grey Relation Analysis and Fuzzy Logic, to evaluate the safety of the rover’s motion while moving on the obstacle
 
+Our works are mainly in files under "elevation_mapping/elevation_mapping/src" as follows:
+
+- CheckObstacle.cpp
+
+- TraversalCheck.cpp
+
+- ConnectAeras.cpp, .h
+
+- Connectmap_pub.cpp
+  
+- GRA.cpp, .h
+  
+- SecondLayer.cpp, .h
+
+- MotionSafety.cpp, .h
+  
+- ThirdLayer.cpp
+
 **Dependencies**
 
 - elevation_mapping (https://github.com/ANYbotics/elevation_mapping)
