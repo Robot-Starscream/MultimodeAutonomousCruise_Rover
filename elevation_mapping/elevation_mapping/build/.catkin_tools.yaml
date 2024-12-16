@@ -1,0 +1,6 @@
+devel_space: /home/syj/slam_project/map02_ws/src/elevation_mapping-master/elevation_mapping/devel
+install: false
+install_space: /home/syj/slam_project/map02_ws/src/elevation_mapping-master/elevation_mapping/install
+profile: default
+source_space: /home/syj/slam_project/map02_ws/src/elevation_mapping-master/elevation_mapping/src
+workspace: /home/syj/slam_project/map02_ws/src/elevation_mapping-master/elevation_mapping
