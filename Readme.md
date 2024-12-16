@@ -14,6 +14,8 @@
 
     - Grey Relation Analysis and Fuzzy Logic, to evaluate the safety of the rover’s motion while moving on the obstacle
 
+**Main Contributions**
+
 Our works are mainly in files under "elevation_mapping/elevation_mapping/src" as follows:
 
 - CheckObstacle.cpp
