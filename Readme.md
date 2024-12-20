@@ -22,15 +22,15 @@ Our works are mainly in files under "elevation_mapping/elevation_mapping/src" as
 
 - TraversalCheck.cpp
 
-- ConnectAeras.cpp, .h
+- ConnectAeras.cpp, ConnectAeras.cpp.h
 
 - Connectmap_pub.cpp
   
 - GRA.cpp, .h
   
-- SecondLayer.cpp, .h
+- SecondLayer.cpp, SecondLayer.cpp.h
 
-- MotionSafety.cpp, .h
+- MotionSafety.cpp, MotionSafety.h
   
 - ThirdLayer.cpp
 
