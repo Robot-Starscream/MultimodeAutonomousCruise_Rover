@@ -4,15 +4,15 @@
 
 - __Multimode decision block of the multimode-based control system__
 
-    - Elevation Mapping, to obtain the elevation of the terrain
+    1. Obtain the elevation of the terrain by Elevation Mapping
 
-    - Connected Component Labeling, to mark the obstacles on the terrain
+    2. Mark the obstacles on the terrain by Connected Component Labeling 
 
-    - Convolution Operator, to extract geometric features of the obstacle surface
+    3. Extract geometric features of the obstacle surface by Convolution Operator
 
-    - Fitting Plane, to compare the desired motion plane of the wheel with the upper surface of the obstacle
+    4. Compare the desired motion plane of the wheel with the upper surface of the obstacle by Fitting Plane
 
-    - Grey Relation Analysis and Fuzzy Logic, to evaluate the safety of the rover’s motion while moving on the obstacle
+    5. Evaluate the safety of the rover’s motion while moving on the obstacle by Grey Relation Analysis and Fuzzy Logic
 
 **Main Contributions**
 
