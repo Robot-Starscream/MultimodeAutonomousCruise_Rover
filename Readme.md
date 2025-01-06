@@ -1,6 +1,6 @@
 # Multimode Autonomous Cruise of Mars Rover Prototype HITMRII
 
-This project is a crucial component of the multimode autonomous Cruise system deployed on the Mars rover prototype HITMRII, and it also serves as supplementary materials for the research paper "Zhurong Mars Rover: Recorded Motion Analysis and Future Multimode Autonomous Cruise Enhancement".
+This project is a crucial component of the multimode autonomous cruise system deployed on the Mars rover prototype HITMRII, and it also serves as supplementary materials for the research paper "Zhurong Mars Rover: Recorded Motion Analysis and Future Multimode Autonomous Cruise Enhancement".
 
 **This repo contains**
 
