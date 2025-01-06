@@ -4,7 +4,15 @@ The multimode decision algorithm is recognized as a crucial component of the mul
 
 **This repo contains**
 
-- __Multimode decision block of the multimode-based control system__
+- __Visual odometry block of the multimode autonomous cruise control system__
+
+    1. Generate height map and obstacle map
+
+    2. Create driving cost map by combining slope-based cost data with the obstacle map
+
+    3. Plan path using the dynamic multi-level path planning algorithm
+
+- __Multimode decision block of the multimode autonomous cruise control system__
 
     1. Obtain the elevation of the terrain by Elevation Mapping
 
@@ -24,13 +32,13 @@ Our works are mainly in files under "elevation_mapping/elevation_mapping/src" as
 
 - TraversalCheck.cpp
 
-- ConnectAeras.cpp, ConnectAeras.cpp.h
+- ConnectAeras.cpp, ConnectAeras.h
 
 - Connectmap_pub.cpp
   
-- GRA.cpp, .h
+- GRA.cpp, GRA.h
   
-- SecondLayer.cpp, SecondLayer.cpp.h
+- SecondLayer.cpp, SecondLayer.h
 
 - MotionSafety.cpp, MotionSafety.h
   
